@@ -9,3 +9,9 @@ Run instantly all the Replica Manager
 python3 rm1.py rm2.py rm3.py
 ```
 
+Run the client file
+
+```
+python3 client.py
+```
+
